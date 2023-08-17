@@ -1,4 +1,3 @@
-
 ---
 title: "Detection of Sub-Pixel Localization of Dim Point Objects"
 collection: publications
