@@ -1,5 +1,5 @@
 ---
-title: "Ph.D. Thesis: Detection and Sub-Pixel Localization of Dim Point Objects"
+title: "Ph.D. Dissertation: Detection and Sub-Pixel Localization of Dim Point Objects"
 collection: publications
 venue: Purdue University Graduate School Research Repository
 date: 2023-05-08
