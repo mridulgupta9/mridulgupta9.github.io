@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Computer Vision Algorithm Engineer at KLA working on detecting defects in photomasks.
+I am a Machine Learning Engineer at Waymo in the Mapping team.
 
 My research focuses on applying deep learning and machine learning tools to problems in computer vision and image processing.
 
